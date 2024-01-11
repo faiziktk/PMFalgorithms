@@ -14,7 +14,7 @@ introducing new, highly parallelizable algorithms showcasing superior performanc
 compared to current solutions.\\
 **M.Sc.** Dissertation: Super Sample Rate Physical Layer for 5G NR\\
 **B.Sc.** Dissertation: Real Time Brain Imaging System Implementation on an FPGA
-## Academic Dissertations
+## Teaching Experience
 **9/2021 – 01/2022** As a Teaching Assistant at Strathclyde University, I supported the Signal
 and Communication Systems course at the BSc. level. Responsibilities
 included conducting tutorials, assisting in labs, guiding project sessions,
