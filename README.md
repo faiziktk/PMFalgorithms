@@ -1,4 +1,4 @@
-# PhD in Signal Processing
+# Ph.D. in Broadband MIMO Processing 
 ## Education
 2021-2024 **Ph.D.** in Signal Processing at the University of Strathclyde, Glasgow\
 2018-2019 **M.Sc.** in Electrical and Electronic Engineering at the University of Strathclyde, Glasgow (Distinction)\
