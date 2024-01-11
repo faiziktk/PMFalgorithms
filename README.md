@@ -1,2 +1,3 @@
-# PMFalgorithms
-This repository contains the polynomial matrix factorization algorithms related code.
+# PhD in Signal Processing
+# Education
+PhD MSc BSc.
