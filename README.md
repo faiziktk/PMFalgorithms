@@ -18,7 +18,7 @@ compared to current solutions.\\
 **9/2021 – 01/2022** As a Teaching Assistant at Strathclyde University, I supported the Signal
 and Communication Systems course at the BSc. level. Responsibilities
 included conducting tutorials, assisting in labs, guiding project sessions,
-and contributing to overall student assessment.
+and contributing to overall student assessment.\\
 **9/2022 – 05/2203** Signal and Image Processing course, catering to Ph.D. students from
 three universities. Led discussions on signal processing topics, clarified
 concepts, and addressed queries to enhance understanding among
