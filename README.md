@@ -1,3 +1,3 @@
 # PhD in Signal Processing
-# Education
-PhD MSc BSc.
+## Education
+# Horizontal line
