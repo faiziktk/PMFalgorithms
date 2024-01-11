@@ -11,6 +11,6 @@ application in MIMO decoding, speech enhancement, data compression, fetal ECG
 extraction, speaker separation, and broadband beamforming. The project had a dual focus:
 optimizing existing polynomial algorithms for reduced computational complexity and
 introducing new, highly parallelizable algorithms showcasing superior performance
-compared to current solutions.
+compared to current solutions.\\
 **M.Sc.** Dissertation: Super Sample Rate Physical Layer for 5G NR\\
 **B.Sc.** Dissertation: Real Time Brain Imaging System Implementation on an FPGA
